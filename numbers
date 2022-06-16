@@ -1,0 +1,4 @@
+(AUTOMORPHIC)A number is called an automorphic number if and only if the square of the given number ends with the same number itself. For example, 25, 76 are automorphic numbers because their square is 625 and 5776, respectively and the last two digits of the square represent the number itself. Some other automorphic numbers are 5, 6, 36, 890625, etc.
+(PETERSON)A number is said to be Peterson if the sum of factorials of each digit is equal to the sum of the number itself.
+(SUNNY)A number is called a sunny number if the number next to the given number is a perfect square. In other words, a number N will be a sunny number if N+1 is a perfect square.
+(SPY)A positive integer is called a spy number if the sum and product of its digits are equal. In other words, a number whose sum and product of all digits are equal is called a spy number.
